@@ -1,4 +1,4 @@
-Q.Query the average population of all cities in CITY where District is California.
+# Q.Query the average population of all cities in CITY where District is California.
 
 
 SELECT AVG(POPULATION) AS AVERAGE_POP
